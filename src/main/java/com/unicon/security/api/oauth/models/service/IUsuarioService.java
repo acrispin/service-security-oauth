@@ -1,6 +1,6 @@
-package com.unicon.security.servicesecurityoauth.models.service;
+package com.unicon.security.api.oauth.models.service;
 
-import com.unicon.security.servicesecurityoauth.models.entity.Usuario;
+import com.unicon.security.api.oauth.models.entity.Usuario;
 
 public interface IUsuarioService {
     public Usuario findByUsername(String username);

@@ -1,4 +1,4 @@
-package com.unicon.security.servicesecurityoauth.security;
+package com.unicon.security.api.oauth.security;
 
 
 import java.util.Arrays;

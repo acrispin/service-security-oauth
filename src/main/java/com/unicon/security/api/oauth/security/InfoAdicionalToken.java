@@ -1,11 +1,11 @@
-package com.unicon.security.servicesecurityoauth.security;
+package com.unicon.security.api.oauth.security;
 
 
 import java.util.HashMap;
 import java.util.Map;
 
-import com.unicon.security.servicesecurityoauth.models.entity.Usuario;
-import com.unicon.security.servicesecurityoauth.models.service.IUsuarioService;
+import com.unicon.security.api.oauth.models.entity.Usuario;
+import com.unicon.security.api.oauth.models.service.IUsuarioService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.oauth2.common.DefaultOAuth2AccessToken;
 import org.springframework.security.oauth2.common.OAuth2AccessToken;

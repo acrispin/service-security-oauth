@@ -1,6 +1,6 @@
-package com.unicon.security.servicesecurityoauth.models.dao;
+package com.unicon.security.api.oauth.models.dao;
 
-import com.unicon.security.servicesecurityoauth.models.entity.Usuario;
+import com.unicon.security.api.oauth.models.entity.Usuario;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.data.repository.query.Param;

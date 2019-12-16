@@ -1,4 +1,4 @@
-package com.unicon.security.servicesecurityoauth;
+package com.unicon.security.api.oauth;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;

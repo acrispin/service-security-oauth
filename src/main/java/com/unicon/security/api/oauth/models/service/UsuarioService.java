@@ -1,7 +1,7 @@
-package com.unicon.security.servicesecurityoauth.models.service;
+package com.unicon.security.api.oauth.models.service;
 
-import com.unicon.security.servicesecurityoauth.models.dao.UsuarioDao;
-import com.unicon.security.servicesecurityoauth.models.entity.Usuario;
+import com.unicon.security.api.oauth.models.dao.UsuarioDao;
+import com.unicon.security.api.oauth.models.entity.Usuario;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

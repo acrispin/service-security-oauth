@@ -1,4 +1,4 @@
-package com.unicon.security.servicesecurityoauth.models.entity;
+package com.unicon.security.api.oauth.models.entity;
 
 import java.io.Serializable;
 import java.util.List;
